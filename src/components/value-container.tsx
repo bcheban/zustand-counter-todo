@@ -1,9 +1,6 @@
 import type { FC } from "react";
 import Value from "./value";
 
-interface IProps {
-  count: number;
-}
 
 const ValueContainer: FC = () => {
   return (
